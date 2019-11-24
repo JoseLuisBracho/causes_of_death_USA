@@ -1,0 +1,65 @@
+Computation:
+
+An example of the computation of an age-adjusted death rate (AADR) follows:
+
+The rate in the area of study (e.g., county, state) is computed for each age group noted in the table below by dividing the number of events (deaths) in that age group by the estimated population of the same age group in that area and then multiplying by a constant of 100,000. This results in an age-specific death rate (ASDR) per 100,000 population for each age group. That is, for each age group, ASDR = deaths in age group ÷ estimated population of that age group × 100,000.
+
+Each ASDR is then multiplied by the proportion of the standard population (see table below) that same age group. The age-specific results are summed to get the age-adjusted death rate for the area of study. The formula is:
+
+     AADR = Summation of (ASDR X standard proportion) 
+
+This is called the direct method of standardization. A given area's age-specific rate (overall or for a given cause) is applied to the U.S. standard population.
+
+The following are the U.S. standard population distributions:
+
+Age
+1940 Proportion	1970 Proportion	2000 Proportion
+Under 1 year	
+0.015343
+0.017151
+0.013818
+1 - 4 years	
+0.064718
+0.067265
+0.055317
+5 - 14 years	
+0.170355
+0.200506
+0.145565
+15 - 24 years	
+0.181677
+0.174406
+0.138646
+25 - 34 years	
+0.162066
+0.122569
+0.135573
+35 - 44 years	
+0.139237
+0.113614
+0.162613
+45 - 54 years	
+0.117811
+0.114265
+0.134834
+55 - 64 years	
+0.080294
+0.091480
+0.087247
+65 - 74 years	
+0.048426
+0.061195
+0.066037
+75 - 84 years	
+0.017303
+0.030112
+0.044842
+85 and over	
+0.002770
+0.007435
+0.015508
+All ages	
+1.000000
+1.000000
+1.000000
+
