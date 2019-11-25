@@ -18,7 +18,7 @@ Identify the main causes of death in the United States
 
 ![picture alt](Top 2 Leading Causes of Death USA.png "Title is optional")
 
-![picture]<img src="https://github.com/JoseLuisBracho/causes_of_death_USA/Top 2 Leading Causes of Death USA.png">
+![alt text](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%202%20Leading%20Causes%20of%20Death%20USA.png)
  
 * The comparison was made using a parameter adjusted-death rate
 
