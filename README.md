@@ -24,8 +24,8 @@ Identify the main causes of death in the United States
 
 	* Heart disease map
 
- ![alt text1](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%2010%20Heart%20disease%20States%20map.png")
+ ![alt text](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%2010%20Heart%20disease%20States%20map.png)
 
 	* Cancer map
 	
-![alt text2](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%2010%20Cancer%20States%20map.png")
+![alt text](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%2010%20Cancer%20States%20map.png)
