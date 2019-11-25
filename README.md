@@ -16,7 +16,7 @@ Identify the main causes of death in the United States
 ## Output:
 * There is not differences bewteen Northern and Southern states.
 
-<img src= "https://github.com/JoseLuisBracho/causes_of_death_USA/Top 2 Leading Causes of Death USA.png" />
+![picture](Top 2 Leading Causes of Death USA.png)
  
 * The comparison was made using a parameter adjusted-death rate
 
@@ -24,8 +24,8 @@ Identify the main causes of death in the United States
 
 	* Heart disease map
 
- <img src= "https://github.com/JoseLuisBracho/causes_of_death_USA/Top 10 Heart disease States map.png" />
+ ![picture](Top 10 Heart disease States map.png)
 
 	* Cancer map
 	
-<img src = "https://github.com/JoseLuisBracho/causes_of_death_USA/Top 10 Cancer States map.png" />
+![picture](Top 10 Cancer States map.png)
