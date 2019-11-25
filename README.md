@@ -6,11 +6,11 @@ Identify the main causes of death in the United States
 ## Resources used:
 * Data from data.gov
 * Python / Jupiter
-	** NumPy
-	** Pandas
-	** Matplotlib
-	** GMaps
-	** scipy.stats
+	* NumPy
+	* Pandas
+	* Matplotlib
+	* GMaps
+	* scipy.stats
 * MS Excel
 
 ## Output:
