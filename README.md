@@ -15,7 +15,8 @@ Identify the main causes of death in the United States
 
 ## Output:
 * There is not differences bewteen Northern and Southern states.
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
 ![picture](https://github.com/JoseLuisBracho/causes_of_death_USA/"Top 2 Leading Causes of Death USA.png")
  
