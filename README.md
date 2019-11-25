@@ -22,10 +22,10 @@ Identify the main causes of death in the United States
 
 * The main 2 causes of death are Heart disease and Cancer mainly in Eastern states
 
-### Heart disease map ###
+> Heart disease map
 
  ![alt text](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%2010%20Heart%20disease%20States%20map.png)
 
-### Cancer map ###
+> Cancer map
 	
 ![alt text](https://github.com/JoseLuisBracho/causes_of_death_USA/blob/master/Top%2010%20Cancer%20States%20map.png)
